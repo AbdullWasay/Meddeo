@@ -959,6 +959,10 @@ About Us Style
   margin-right: 45px;
 }
 
+.about-us .services {
+  margin-left: 40px;
+}
+
 .about-us .services .item {
   margin-bottom: 30px;
 }
