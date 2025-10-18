@@ -960,7 +960,8 @@ About Us Style
 }
 
 .about-us .services {
-  margin-left: 40px;
+  margin-left: 90px;
+  margin-top: -20px;
 }
 
 .about-us .services .item {
